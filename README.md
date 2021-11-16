@@ -23,8 +23,11 @@ Con esta información se podría estudiar cómo votan los distintos conglomerado
 ## Pequeño análisis de datos
 A modo de motivación, presento un par de gráficos realizados con los datos disponibles.
 
-IMAGEN RETRASO
+![alt text](https://github.com/Alonsomar/ConvencionWebScraping/blob/d36613317f6f7db20e08771731fbed3762025893/Graf_retraso.png)
 
-IMAGEN ASISTENCIA REMOTA
+
+
+![alt text](https://github.com/Alonsomar/ConvencionWebScraping/blob/d36613317f6f7db20e08771731fbed3762025893/Graf_asistencia_remota.png)
+
 
 
